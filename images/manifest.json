@@ -1,0 +1,66 @@
+{
+  "id" : "https://iacovelli.github.io/iiifworkshoptestSep2022-manifest2/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in iacovelli/iiifworkshoptestSep2022-manifest2 project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 1396,
+    "id" : "https://iacovelli.github.io/iiifworkshoptestSep2022-manifest2/images/NGA_Drtikol_Screenshot/canvas/",
+    "label" : {
+      "none" : [ "NGA_Drtikol_Screenshot" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://iacovelli.github.io/iiifworkshoptestSep2022-manifest2/images/NGA_Drtikol_Screenshot/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://iacovelli.github.io/iiifworkshoptestSep2022-manifest2/images/NGA_Drtikol_Screenshot/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 44,
+              "height" : 30
+            }, {
+              "width" : 88,
+              "height" : 59
+            }, {
+              "width" : 175,
+              "height" : 118
+            }, {
+              "width" : 349,
+              "height" : 235
+            }, {
+              "width" : 698,
+              "height" : 470
+            }, {
+              "width" : 1396,
+              "height" : 939
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1396,
+            "@id" : "https://iacovelli.github.io/iiifworkshoptestSep2022-manifest2/images/NGA_Drtikol_Screenshot",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 939
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1396,
+          "id" : "https://iacovelli.github.io/iiifworkshoptestSep2022-manifest2/images/NGA_Drtikol_Screenshot/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 939
+        },
+        "target" : "https://iacovelli.github.io/iiifworkshoptestSep2022-manifest2/images/NGA_Drtikol_Screenshot/canvas/"
+      } ]
+    } ],
+    "height" : 939
+  } ]
+}
