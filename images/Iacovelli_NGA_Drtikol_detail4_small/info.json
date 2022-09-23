@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 3,
+    "height" : 3
+  }, {
+    "width" : 6,
+    "height" : 5
+  }, {
+    "width" : 12,
+    "height" : 9
+  }, {
+    "width" : 24,
+    "height" : 18
+  }, {
+    "width" : 48,
+    "height" : 36
+  }, {
+    "width" : 96,
+    "height" : 72
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 96,
+  "@id" : "https://iacovelli.github.io/iiifworkshoptestSep2022-manifest2/images/Iacovelli_NGA_Drtikol_detail4_small",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 72
+}
